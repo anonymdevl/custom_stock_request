@@ -1,6 +1,6 @@
 ### Custom Stock Request
 
-A custom stock request app that validates requested stock quantities against actual stock based on workflow_states and triggers corresponding Material REquests and Stock E
+A custom stock request app that validates requested stock quantities against actual stock based on workflow_states and triggers corresponding Material REquests and Stock Entry to Complete Stock Request Process
 
 ### Installation
 

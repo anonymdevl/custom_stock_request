@@ -1,7 +1,7 @@
 app_name = "custom_stock_request"
 app_title = "Custom Stock Request"
 app_publisher = "Michael Appiah"
-app_description = "A custom stock request app that validates requested stock quantities against actual stock based on workflow_states and triggers corresponding Material REquests and Stock E"
+app_description = "A custom stock request app that validates requested stock quantities against actual stock based on workflow_states and triggers corresponding Material REquests and Stock Entry to Complete Stock Request Process"
 app_email = "michael@powersoftsystem.com"
 app_license = "mit"
 
