@@ -8,8 +8,10 @@
   "section_break_zgzz",
   "amended_from",
   "request_date",
+  "source_warehouse",
   "column_break_wkgm",
   "requested_by",
+  "target_warehouse",
   "section_break_fvcd",
   "requested_items"
  ],
@@ -56,13 +58,25 @@
    "fieldtype": "Table",
    "label": "Requested Items",
    "options": "Requested Items"
+  },
+  {
+   "fieldname": "source_warehouse",
+   "fieldtype": "Link",
+   "label": "Source Warehouse",
+   "options": "Warehouse"
+  },
+  {
+   "fieldname": "target_warehouse",
+   "fieldtype": "Link",
+   "label": "Target Warehouse",
+   "options": "Warehouse"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-05-06 22:16:59.755408",
+ "modified": "2025-05-08 02:50:12.831704",
  "modified_by": "Administrator",
  "module": "Custom Stock Request",
  "name": "Stock Request",
